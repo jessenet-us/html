@@ -1,5 +1,4 @@
-self-sudo
+index.html
 
-https://www.jessenet.us
+https://www.tech.jessenet.us
 
-# html
